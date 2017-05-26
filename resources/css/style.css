@@ -1,12 +1,40 @@
 html {
-  font-family: Helvetica, sans-serif;
+  font-family: Verdana, sans-serif;
+  background-color:gray;
+  text-align: center;
+  width: 100%;
+  height: auto;
 }
 
-
-h1, h2 {
-  color: DarkGreen;
+body{
+	background-color:black;
+	width: 960px;
+	height: 100%;
+	display: inline-block;
+	margin: auto;
+}
+h1 {
+  color: white;
+  size: 50px;
+  font-weight: normal;
 }
 
-h3{
-	color: SeaGreen;
+h2 {
+  color: white;
+  size: 42px;
+  font-weight:300;
+}
+
+h6{
+	color: Aquamarine;
+	size: 16px;
+	font-weight: normal;
+}
+p{size: 21px;
+	color: grey;}
+
+#disclaimer{
+	text-align:right;
+	color:gray;
+	padding-right:10px;
 }
